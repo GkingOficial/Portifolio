@@ -31,14 +31,17 @@ portfolio/
    ```bash
    git clone https://github.com/SEU-USUARIO/portfolio.git
    cd portfolio
+   ```
 
 2. Copie o arquivo .env.example para .env:
   ```bash
   cp .env.example .env
+  ```
 
 3. Suba os containers:
   ```bash
   docker compose up --build
+  ```
 
 4. Acesse:
   Frontend → http://localhost:5173
