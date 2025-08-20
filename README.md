@@ -43,3 +43,9 @@ portfolio/
 4. Acesse:
   Frontend → http://localhost:5173
   Backend → http://localhost:8000/api/projects/
+
+
+🌍 Deploy
+
+Frontend: Netlify ou Vercel
+Backend: Railway, Render ou Fly.io
