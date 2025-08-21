@@ -28,10 +28,10 @@ portfolio/
 ## 🔧 Como rodar localmente
 
 1. Clone este repositório:
-   ```bash
-   git clone https://github.com/SEU-USUARIO/portfolio.git
-   cd portfolio
-   ```
+  ```bash
+  git clone https://github.com/SEU-USUARIO/portfolio.git
+  cd portfolio
+  ```
 
 2. Copie o arquivo .env.example para .env:
   ```bash
